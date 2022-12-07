@@ -17,3 +17,81 @@ CRITICAL - 2022-12-07 11:06:57 --> Class 'codeIgniter\Exceptions\PageNotFoundExc
 #2 /var/www/html/code4/system/CodeIgniter.php(246): CodeIgniter\CodeIgniter->handleRequest()
 #3 /var/www/html/code4/public/index.php(45): CodeIgniter\CodeIgniter->run()
 #4 {main}
+CRITICAL - 2022-12-07 11:13:15 --> Class 'codeIgniter\Exceptions\PageNotFoundException' not found
+#0 /var/www/html/code4/system/CodeIgniter.php(847): App\Controllers\Pages->mostrar()
+#1 /var/www/html/code4/system/CodeIgniter.php(338): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/html/code4/system/CodeIgniter.php(246): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/html/code4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-12-07 11:20:01 --> Class 'codeIgniter\Exceptions\PageNotFoundException' not found
+#0 /var/www/html/code4/system/CodeIgniter.php(847): App\Controllers\Pages->mostrar()
+#1 /var/www/html/code4/system/CodeIgniter.php(338): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/html/code4/system/CodeIgniter.php(246): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/html/code4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-12-07 11:20:19 --> Class 'codeIgniter\Exceptions\PageNotFoundException' not found
+#0 /var/www/html/code4/system/CodeIgniter.php(847): App\Controllers\Pages->mostrar()
+#1 /var/www/html/code4/system/CodeIgniter.php(338): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/html/code4/system/CodeIgniter.php(246): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/html/code4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-12-07 11:20:26 --> Class 'codeIgniter\Exceptions\PageNotFoundException' not found
+#0 /var/www/html/code4/system/CodeIgniter.php(847): App\Controllers\Pages->mostrar()
+#1 /var/www/html/code4/system/CodeIgniter.php(338): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/html/code4/system/CodeIgniter.php(246): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/html/code4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-12-07 11:23:48 --> Class 'codeIgniter\Exceptions\PageNotFoundException' not found
+#0 /var/www/html/code4/system/CodeIgniter.php(847): App\Controllers\Pages->mostrar()
+#1 /var/www/html/code4/system/CodeIgniter.php(338): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/html/code4/system/CodeIgniter.php(246): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/html/code4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-12-07 11:23:55 --> Class 'codeIgniter\Exceptions\PageNotFoundException' not found
+#0 /var/www/html/code4/system/CodeIgniter.php(847): App\Controllers\Pages->mostrar()
+#1 /var/www/html/code4/system/CodeIgniter.php(338): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/html/code4/system/CodeIgniter.php(246): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/html/code4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-12-07 11:23:58 --> Class 'codeIgniter\Exceptions\PageNotFoundException' not found
+#0 /var/www/html/code4/system/CodeIgniter.php(847): App\Controllers\Pages->mostrar()
+#1 /var/www/html/code4/system/CodeIgniter.php(338): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/html/code4/system/CodeIgniter.php(246): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/html/code4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-12-07 11:25:47 --> Class 'codeIgniter\Exceptions\PageNotFoundException' not found
+#0 /var/www/html/code4/system/CodeIgniter.php(847): App\Controllers\Pages->mostrar()
+#1 /var/www/html/code4/system/CodeIgniter.php(338): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/html/code4/system/CodeIgniter.php(246): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/html/code4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-12-07 11:27:45 --> Class 'codeIgniter\Exceptions\PageNotFoundException' not found
+#0 /var/www/html/code4/system/CodeIgniter.php(847): App\Controllers\Pages->mostrar()
+#1 /var/www/html/code4/system/CodeIgniter.php(338): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/html/code4/system/CodeIgniter.php(246): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/html/code4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-12-07 11:27:52 --> Class 'codeIgniter\Exceptions\PageNotFoundException' not found
+#0 /var/www/html/code4/system/CodeIgniter.php(847): App\Controllers\Pages->mostrar()
+#1 /var/www/html/code4/system/CodeIgniter.php(338): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/html/code4/system/CodeIgniter.php(246): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/html/code4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-12-07 11:28:00 --> Class 'codeIgniter\Exceptions\PageNotFoundException' not found
+#0 /var/www/html/code4/system/CodeIgniter.php(847): App\Controllers\Pages->mostrar()
+#1 /var/www/html/code4/system/CodeIgniter.php(338): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/html/code4/system/CodeIgniter.php(246): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/html/code4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-12-07 11:28:29 --> Class 'codeIgniter\Exceptions\PageNotFoundException' not found
+#0 /var/www/html/code4/system/CodeIgniter.php(847): App\Controllers\Pages->mostrar()
+#1 /var/www/html/code4/system/CodeIgniter.php(338): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/html/code4/system/CodeIgniter.php(246): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/html/code4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-12-07 11:28:46 --> Class 'codeIgniter\Exceptions\PageNotFoundException' not found
+#0 /var/www/html/code4/system/CodeIgniter.php(847): App\Controllers\Pages->mostrar()
+#1 /var/www/html/code4/system/CodeIgniter.php(338): CodeIgniter\CodeIgniter->runController()
+#2 /var/www/html/code4/system/CodeIgniter.php(246): CodeIgniter\CodeIgniter->handleRequest()
+#3 /var/www/html/code4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
