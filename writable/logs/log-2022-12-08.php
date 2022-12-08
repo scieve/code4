@@ -68,3 +68,75 @@ CRITICAL - 2022-12-08 10:54:46 --> Undefined index: descricao
 #6 /var/www/html/code4/system/CodeIgniter.php(246): CodeIgniter\CodeIgniter->handleRequest()
 #7 /var/www/html/code4/public/index.php(45): CodeIgniter\CodeIgniter->run()
 #8 {main}
+CRITICAL - 2022-12-08 12:28:49 --> 
+#0 /var/www/html/code4/system/HTTP/RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute()
+#1 /var/www/html/code4/system/Common.php(929): CodeIgniter\HTTP\RedirectResponse->route()
+#2 /var/www/html/code4/app/Controllers/Noticias.php(74): redirect()
+#3 /var/www/html/code4/system/CodeIgniter.php(847): App\Controllers\Noticias->gravar()
+#4 /var/www/html/code4/system/CodeIgniter.php(338): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/html/code4/system/CodeIgniter.php(246): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/html/code4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-12-08 12:29:12 --> 
+#0 /var/www/html/code4/system/HTTP/RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute()
+#1 /var/www/html/code4/system/Common.php(929): CodeIgniter\HTTP\RedirectResponse->route()
+#2 /var/www/html/code4/app/Controllers/Noticias.php(74): redirect()
+#3 /var/www/html/code4/system/CodeIgniter.php(847): App\Controllers\Noticias->gravar()
+#4 /var/www/html/code4/system/CodeIgniter.php(338): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/html/code4/system/CodeIgniter.php(246): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/html/code4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-12-08 12:29:31 --> 
+#0 /var/www/html/code4/system/HTTP/RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute()
+#1 /var/www/html/code4/system/Common.php(929): CodeIgniter\HTTP\RedirectResponse->route()
+#2 /var/www/html/code4/app/Controllers/Noticias.php(74): redirect()
+#3 /var/www/html/code4/system/CodeIgniter.php(847): App\Controllers\Noticias->gravar()
+#4 /var/www/html/code4/system/CodeIgniter.php(338): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/html/code4/system/CodeIgniter.php(246): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/html/code4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-12-08 12:32:35 --> 
+#0 /var/www/html/code4/system/HTTP/RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute()
+#1 /var/www/html/code4/system/Common.php(929): CodeIgniter\HTTP\RedirectResponse->route()
+#2 /var/www/html/code4/app/Controllers/Noticias.php(74): redirect()
+#3 /var/www/html/code4/system/CodeIgniter.php(847): App\Controllers\Noticias->gravar()
+#4 /var/www/html/code4/system/CodeIgniter.php(338): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/html/code4/system/CodeIgniter.php(246): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/html/code4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-12-08 12:34:48 --> 
+#0 /var/www/html/code4/system/HTTP/RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute()
+#1 /var/www/html/code4/system/Common.php(929): CodeIgniter\HTTP\RedirectResponse->route()
+#2 /var/www/html/code4/app/Controllers/Noticias.php(74): redirect()
+#3 /var/www/html/code4/system/CodeIgniter.php(847): App\Controllers\Noticias->gravar()
+#4 /var/www/html/code4/system/CodeIgniter.php(338): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/html/code4/system/CodeIgniter.php(246): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/html/code4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-12-08 12:35:24 --> 
+#0 /var/www/html/code4/system/HTTP/RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute()
+#1 /var/www/html/code4/system/Common.php(929): CodeIgniter\HTTP\RedirectResponse->route()
+#2 /var/www/html/code4/app/Controllers/Noticias.php(74): redirect()
+#3 /var/www/html/code4/system/CodeIgniter.php(847): App\Controllers\Noticias->gravar()
+#4 /var/www/html/code4/system/CodeIgniter.php(338): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/html/code4/system/CodeIgniter.php(246): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/html/code4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-12-08 12:36:02 --> 
+#0 /var/www/html/code4/system/HTTP/RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute()
+#1 /var/www/html/code4/system/Common.php(929): CodeIgniter\HTTP\RedirectResponse->route()
+#2 /var/www/html/code4/app/Controllers/Noticias.php(74): redirect()
+#3 /var/www/html/code4/system/CodeIgniter.php(847): App\Controllers\Noticias->gravar()
+#4 /var/www/html/code4/system/CodeIgniter.php(338): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/html/code4/system/CodeIgniter.php(246): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/html/code4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-12-08 12:38:11 --> 
+#0 /var/www/html/code4/system/HTTP/RedirectResponse.php(92): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute()
+#1 /var/www/html/code4/system/Common.php(929): CodeIgniter\HTTP\RedirectResponse->route()
+#2 /var/www/html/code4/app/Controllers/Noticias.php(74): redirect()
+#3 /var/www/html/code4/system/CodeIgniter.php(847): App\Controllers\Noticias->gravar()
+#4 /var/www/html/code4/system/CodeIgniter.php(338): CodeIgniter\CodeIgniter->runController()
+#5 /var/www/html/code4/system/CodeIgniter.php(246): CodeIgniter\CodeIgniter->handleRequest()
+#6 /var/www/html/code4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}
