@@ -19,6 +19,26 @@ class Noticias extends Controller
 
         echo view('templates/header', $data);
         echo view('pages/noticias', $data);
+    }
+
+
+    public function item($id = NULL)
+    {
+
+        $model = new NoticiasModel();
+
+        $data['noticias'] = $model->getNoticias();
+
+        if (empty($data['noticias'])) {
+            throw new \CodeIgniter\Exceptions\PageNotFoundException('Não é possível encontrar a notícia com id: ' . $id);
+        }
+
+
+        $data['title'] = $data['noticias'][0]['titulo'];
+       
+
+        echo view('templates/header', $data);
+        echo view('pages/noticia', $data);
         echo view('templates/footer', $data);
     }
 }
