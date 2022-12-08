@@ -1,4 +1,7 @@
+<div class="text-center">
+    <em>&copy; 2019</em>
+</div>
 
-<em>&copy; 2019</em>
 </body>
+
 </html>
